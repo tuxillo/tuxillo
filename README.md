@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Antonio Huete, an IT enthusiast who contributes to some Open Source projects, most notably to the [DragonFly BSD operating system](https://www.dragonflybsd.org). I'm located in in Spain :es:.
+I'm Antonio Huete, an IT enthusiast who contributes to some Open Source projects, most notably to the [DragonFly BSD operating system](https://www.dragonflybsd.org). I'm currently based in Spain :es:.
 
 #### 👷 Check out what I'm currently working on
 
