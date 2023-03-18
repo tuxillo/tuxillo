@@ -14,6 +14,8 @@ I'm Antonio Huete, an IT enthusiast who contributes to some Open Source projects
 
 If you appreciate my work, you can contribute to DragonFly BSD [here](https://www.dragonflybsd.org/donations/).
 
+Here is my [Amazon wishlist](https://www.amazon.es/hz/wishlist/ls/ADRUSKQKWZE8/ref=nav_wishlist_lists_1).
+
 <!--
 **tuxillo/tuxillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
